@@ -45,8 +45,7 @@ html,body{
 /* LANDING PAGE */
 .landingPage{
     height: 90vh;
-    width: 100vw;
-    background-color: #18bc9c;
+    width: 100vw
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -113,7 +112,7 @@ html,body{
 }
 
 .skillsSection > div{
-    background-color: orange;
+    background-color:orange;
     width: 25vw;
     cursor: pointer;
 }
