@@ -68,7 +68,7 @@ html,body{
     height: 15em;
     width: 15em;
     border-radius: 50%;
-    background: url('https://www.google.co.in/url?sa=i&source=images&cd=&ved=2ahUKEwip1YXD_N3eAhVGpI8KHa-2AzsQjRx6BAgBEAU&url=https%3A%2F%2Fwww.istockphoto.com%2Fin%2Fphotos%2Fbackgrounds&psig=AOvVaw3SSW6Hn3cYQ59nHAppYqeg&ust=1542631555285727.jpg');
+    background: url=('https://www.google.co.in/url?sa=i&source=images&cd=&ved=2ahUKEwip1YXD_N3eAhVGpI8KHa-2AzsQjRx6BAgBEAU&url=https%3A%2F%2Fwww.istockphoto.com%2Fin%2Fphotos%2Fbackgrounds&psig=AOvVaw3SSW6Hn3cYQ59nHAppYqeg&ust=1542631555285727.jpg');
     background-size: cover;
 }
 
