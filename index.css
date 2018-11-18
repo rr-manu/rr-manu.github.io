@@ -45,7 +45,7 @@ html,body{
 /* LANDING PAGE */
 .landingPage{
     height: 90vh;
-    width: 100vw
+    width: 100vw;
     display: flex;
     justify-content: center;
     align-items: flex-start;
