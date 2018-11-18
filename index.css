@@ -56,7 +56,7 @@ html,body{
     height: auto;
     width: 50vw;
     /* background-color: yellow; */
-    color: black;
+    color: yellow ;
     display: flex;
     flex-direction: column;
     align-items: center;
